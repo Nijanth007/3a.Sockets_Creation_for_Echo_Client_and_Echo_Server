@@ -9,8 +9,8 @@ Sockets Links.
  server .
 4. Send and receive the message using the send function in socket.
 ## PROGRAM
-### NAME : THIRUMALAI K
-### REG NO : 212224240176
+### NAME : NIJANTH K
+### REG NO : 212224240186
 ### DEPT : AIML
 ### SERVER.PY :
 ```python
